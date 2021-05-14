@@ -1,4 +1,4 @@
-﻿var someValue = "Full Stack Developper \rspecializiing in mostly JS, but also write Python, PHP"
+﻿var someValue = "Full Stack Developper \rspecializiing in mostly JS, but also write PHP, Laravel"
 alert(someValue);
 
 window.onload = function () {
